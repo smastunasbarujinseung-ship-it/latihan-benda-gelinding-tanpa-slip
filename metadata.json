@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Penilaian Fisika — Dinamika Rotasi dan Gerak Menggelinding",
+  "description": "Platform asesmen Fisika SMA interaktif materi Hukum Newton II pada benda berotasi dan menggelinding tanpa slip dengan ilustrasi presisi, penilaian otomatis, pembahasan ilmiah lengkap, dan narator suara MR JO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
